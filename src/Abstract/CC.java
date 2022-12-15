@@ -10,6 +10,11 @@ public class CC extends Test{
 		c.Demo3();
 	}
 
+	
+	
+	
+	
+	
 	public void Demo3()
 	{
 		System.out.println("this is Demo3 method in the CC class");
