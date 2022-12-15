@@ -20,5 +20,9 @@ public class CC extends Test{
 		System.out.println("this is Demo1 method from the test class");
 		
 	}
+	public void Demo2()
+	{
+		System.out.println("this is Demo2 method from the test class");
+	}
 	
 }
